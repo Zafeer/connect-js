@@ -30,8 +30,9 @@
     "angular-mocks": "~1.2.18"
   },
   "dependencies": {
-    "sjcl": "https://github.com/bitwiseshiftleft/sjcl/archive/1.0.0.zip",
+    "sjcl": "1.0.2",
     "jsrsasign": "~4.7.0",
+    "jsjws": "~3.0.2",
     "crypto-js": "https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/crypto-js/CryptoJS%20v3.1.2.zip"
   }
 }
